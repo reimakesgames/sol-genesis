@@ -23,6 +23,12 @@
       }
     },
 
+    "ServerStorage": {
+      "Test": {
+        "$path": "test"
+      }
+    },
+
     "Lighting": {
       "$properties": {
         "Ambient": [

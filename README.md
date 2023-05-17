@@ -24,3 +24,9 @@ A sci-fi fantasy game, Swords of Light: Genesis is a game with the same core con
 
 - Any OS that supports Roblox
 - A mid-range computer (or better)
+
+## Installation
+
+1. Clone the repository
+1. Run `./setup.sh` to install dependencies
+1. Run `./serve.sh` to start the server to enable studio sync

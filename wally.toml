@@ -1,7 +1,8 @@
 [package]
-name = "shiro/sol-genesis"
+name = "reimakesgames/sol-genesis"
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
 [dependencies]
+goodsignal = "stravant/goodsignal@0.2.1"

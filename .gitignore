@@ -4,3 +4,7 @@
 # Roblox Studio lock files
 /*.rbxlx.lock
 /*.rbxl.lock
+
+# Default ignore files
+/Packages
+sourcemap.json
